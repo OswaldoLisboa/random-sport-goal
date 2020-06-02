@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/oswaldolisboa/random-sport-goal/static/css/main.e9ddd0ac.chunk.css",
-    "main.js": "/oswaldolisboa/random-sport-goal/static/js/main.ba7aaf34.chunk.js",
-    "main.js.map": "/oswaldolisboa/random-sport-goal/static/js/main.ba7aaf34.chunk.js.map",
-    "runtime-main.js": "/oswaldolisboa/random-sport-goal/static/js/runtime-main.557fbe19.js",
-    "runtime-main.js.map": "/oswaldolisboa/random-sport-goal/static/js/runtime-main.557fbe19.js.map",
-    "static/js/2.d3813d96.chunk.js": "/oswaldolisboa/random-sport-goal/static/js/2.d3813d96.chunk.js",
-    "static/js/2.d3813d96.chunk.js.map": "/oswaldolisboa/random-sport-goal/static/js/2.d3813d96.chunk.js.map",
-    "index.html": "/oswaldolisboa/random-sport-goal/index.html",
-    "precache-manifest.93bcaffbb51b05fff80f09af89c12562.js": "/oswaldolisboa/random-sport-goal/precache-manifest.93bcaffbb51b05fff80f09af89c12562.js",
-    "service-worker.js": "/oswaldolisboa/random-sport-goal/service-worker.js",
-    "static/css/main.e9ddd0ac.chunk.css.map": "/oswaldolisboa/random-sport-goal/static/css/main.e9ddd0ac.chunk.css.map",
-    "static/js/2.d3813d96.chunk.js.LICENSE.txt": "/oswaldolisboa/random-sport-goal/static/js/2.d3813d96.chunk.js.LICENSE.txt"
+    "main.css": "//oswaldolisboa.github.io/random-sport-goal//static/css/main.e9ddd0ac.chunk.css",
+    "main.js": "//oswaldolisboa.github.io/random-sport-goal//static/js/main.50f5d248.chunk.js",
+    "main.js.map": "//oswaldolisboa.github.io/random-sport-goal//static/js/main.50f5d248.chunk.js.map",
+    "runtime-main.js": "//oswaldolisboa.github.io/random-sport-goal//static/js/runtime-main.2db7a1b7.js",
+    "runtime-main.js.map": "//oswaldolisboa.github.io/random-sport-goal//static/js/runtime-main.2db7a1b7.js.map",
+    "static/js/2.d3813d96.chunk.js": "//oswaldolisboa.github.io/random-sport-goal//static/js/2.d3813d96.chunk.js",
+    "static/js/2.d3813d96.chunk.js.map": "//oswaldolisboa.github.io/random-sport-goal//static/js/2.d3813d96.chunk.js.map",
+    "index.html": "//oswaldolisboa.github.io/random-sport-goal//index.html",
+    "precache-manifest.346eb2c4f92ee06ad347f50e936a68b7.js": "//oswaldolisboa.github.io/random-sport-goal//precache-manifest.346eb2c4f92ee06ad347f50e936a68b7.js",
+    "service-worker.js": "//oswaldolisboa.github.io/random-sport-goal//service-worker.js",
+    "static/css/main.e9ddd0ac.chunk.css.map": "//oswaldolisboa.github.io/random-sport-goal//static/css/main.e9ddd0ac.chunk.css.map",
+    "static/js/2.d3813d96.chunk.js.LICENSE.txt": "//oswaldolisboa.github.io/random-sport-goal//static/js/2.d3813d96.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.557fbe19.js",
+    "static/js/runtime-main.2db7a1b7.js",
     "static/js/2.d3813d96.chunk.js",
     "static/css/main.e9ddd0ac.chunk.css",
-    "static/js/main.ba7aaf34.chunk.js"
+    "static/js/main.50f5d248.chunk.js"
   ]
 }

@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/random-sport-goal//static/css/main.e6aed684.chunk.css",
+    "main.css": "/random-sport-goal//static/css/main.79c380e1.chunk.css",
     "main.js": "/random-sport-goal//static/js/main.ec3d89f4.chunk.js",
     "main.js.map": "/random-sport-goal//static/js/main.ec3d89f4.chunk.js.map",
     "runtime-main.js": "/random-sport-goal//static/js/runtime-main.ea5e19ed.js",
@@ -8,15 +8,15 @@
     "static/js/2.d3813d96.chunk.js": "/random-sport-goal//static/js/2.d3813d96.chunk.js",
     "static/js/2.d3813d96.chunk.js.map": "/random-sport-goal//static/js/2.d3813d96.chunk.js.map",
     "index.html": "/random-sport-goal//index.html",
-    "precache-manifest.b3fd0777d701cc7d28210b3c54b1a4c3.js": "/random-sport-goal//precache-manifest.b3fd0777d701cc7d28210b3c54b1a4c3.js",
+    "precache-manifest.8f6c35b757acf011aa1b9e4b48b5ab47.js": "/random-sport-goal//precache-manifest.8f6c35b757acf011aa1b9e4b48b5ab47.js",
     "service-worker.js": "/random-sport-goal//service-worker.js",
-    "static/css/main.e6aed684.chunk.css.map": "/random-sport-goal//static/css/main.e6aed684.chunk.css.map",
+    "static/css/main.79c380e1.chunk.css.map": "/random-sport-goal//static/css/main.79c380e1.chunk.css.map",
     "static/js/2.d3813d96.chunk.js.LICENSE.txt": "/random-sport-goal//static/js/2.d3813d96.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ea5e19ed.js",
     "static/js/2.d3813d96.chunk.js",
-    "static/css/main.e6aed684.chunk.css",
+    "static/css/main.79c380e1.chunk.css",
     "static/js/main.ec3d89f4.chunk.js"
   ]
 }

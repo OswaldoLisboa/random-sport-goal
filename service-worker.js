@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/random-sport-goal//precache-manifest.2604b7e0fabec8f31b7d98e09a233598.js"
+  "/random-sport-goal//precache-manifest.0231b3cac04d176c515e0a4ddce65c4b.js"
 );
 
 self.addEventListener('message', (event) => {

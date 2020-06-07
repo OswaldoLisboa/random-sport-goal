@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "23691995246974958499598d38917414",
+    "revision": "b3b743fe831a6fc3a525a50b44a3315f",
     "url": "/random-sport-goal//index.html"
   },
   {
-    "revision": "f4fcfb4bc6c74412706f",
+    "revision": "a35952900495feb139e8",
     "url": "/random-sport-goal//static/css/main.db99a63b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/random-sport-goal//static/js/2.d3813d96.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f4fcfb4bc6c74412706f",
-    "url": "/random-sport-goal//static/js/main.31c0718b.chunk.js"
+    "revision": "a35952900495feb139e8",
+    "url": "/random-sport-goal//static/js/main.899aebe2.chunk.js"
   },
   {
     "revision": "8e6d1c69a22cef1c7013",
